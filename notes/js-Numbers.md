@@ -1,4 +1,4 @@
-#Javascript Numbers
+# Javascript Numbers
 
 * Only 1 type of number
 * 64-bit floating point
